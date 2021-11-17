@@ -8,3 +8,5 @@ git fetch (получение изменений с сервера) и git merge
 
 /* А сейчас попробуем добаить не в ветку master */
 /* try#2 to push no master branch */
+
+/* push to another no master branch */
